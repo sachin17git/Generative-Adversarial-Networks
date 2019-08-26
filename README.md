@@ -10,4 +10,4 @@
 ##   
 ### Model generates these new images.
 
-![pic](https://user-images.githubusercontent.com/40026126/63721492-03ab6500-c86f-11e9-84ec-1c154a066cce.png)
+
