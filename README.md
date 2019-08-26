@@ -10,4 +10,5 @@
 ##   
 ### Model generates these new images.
 
+![fake_samples_epoch_024](https://user-images.githubusercontent.com/40026126/63722032-065a8a00-c870-11e9-9095-fab291440234.png)
 
